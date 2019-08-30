@@ -1,0 +1,6 @@
+E:\c# trung tam\ReverseString\TwoIndexMax\bin\Debug\TwoIndexMax.exe.config
+E:\c# trung tam\ReverseString\TwoIndexMax\bin\Debug\TwoIndexMax.exe
+E:\c# trung tam\ReverseString\TwoIndexMax\bin\Debug\TwoIndexMax.pdb
+E:\c# trung tam\ReverseString\TwoIndexMax\obj\Debug\TwoIndexMax.csproj.CoreCompileInputs.cache
+E:\c# trung tam\ReverseString\TwoIndexMax\obj\Debug\TwoIndexMax.exe
+E:\c# trung tam\ReverseString\TwoIndexMax\obj\Debug\TwoIndexMax.pdb

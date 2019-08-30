@@ -1,0 +1,7 @@
+E:\c# trung tam\ReverseString\ArrayTwoElement\bin\Debug\ArrayTwoElement.exe.config
+E:\c# trung tam\ReverseString\ArrayTwoElement\bin\Debug\ArrayTwoElement.exe
+E:\c# trung tam\ReverseString\ArrayTwoElement\bin\Debug\ArrayTwoElement.pdb
+E:\c# trung tam\ReverseString\ArrayTwoElement\obj\Debug\ArrayTwoElement.csprojAssemblyReference.cache
+E:\c# trung tam\ReverseString\ArrayTwoElement\obj\Debug\ArrayTwoElement.csproj.CoreCompileInputs.cache
+E:\c# trung tam\ReverseString\ArrayTwoElement\obj\Debug\ArrayTwoElement.exe
+E:\c# trung tam\ReverseString\ArrayTwoElement\obj\Debug\ArrayTwoElement.pdb

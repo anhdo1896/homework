@@ -1,0 +1,7 @@
+E:\c# trung tam\ReverseString\CaplitalString\obj\Debug\CaplitalString.csprojAssemblyReference.cache
+E:\c# trung tam\ReverseString\CaplitalString\obj\Debug\CaplitalString.csproj.CoreCompileInputs.cache
+E:\c# trung tam\ReverseString\CaplitalString\bin\Debug\CaplitalString.exe.config
+E:\c# trung tam\ReverseString\CaplitalString\bin\Debug\CaplitalString.exe
+E:\c# trung tam\ReverseString\CaplitalString\bin\Debug\CaplitalString.pdb
+E:\c# trung tam\ReverseString\CaplitalString\obj\Debug\CaplitalString.exe
+E:\c# trung tam\ReverseString\CaplitalString\obj\Debug\CaplitalString.pdb

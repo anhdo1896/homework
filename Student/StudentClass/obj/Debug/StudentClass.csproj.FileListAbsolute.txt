@@ -1,0 +1,7 @@
+E:\c# trung tam\homeworkcode\Student\StudentClass\bin\Debug\StudentClass.exe.config
+E:\c# trung tam\homeworkcode\Student\StudentClass\bin\Debug\StudentClass.exe
+E:\c# trung tam\homeworkcode\Student\StudentClass\bin\Debug\StudentClass.pdb
+E:\c# trung tam\homeworkcode\Student\StudentClass\obj\Debug\StudentClass.csprojAssemblyReference.cache
+E:\c# trung tam\homeworkcode\Student\StudentClass\obj\Debug\StudentClass.csproj.CoreCompileInputs.cache
+E:\c# trung tam\homeworkcode\Student\StudentClass\obj\Debug\StudentClass.exe
+E:\c# trung tam\homeworkcode\Student\StudentClass\obj\Debug\StudentClass.pdb
